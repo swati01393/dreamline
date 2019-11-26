@@ -54,7 +54,8 @@
                   <input type="submit" name="submit" value="Login In" class="btn-logn" />
  </form>
  </div>
- <div> <table><tr><td></td></tr></table></div>
+ <div> <table><tr><td>name</td>
+ <td>email</td></tr></table></div>
  
 
  

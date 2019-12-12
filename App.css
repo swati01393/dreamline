@@ -1,0 +1,53 @@
+.App {
+  height: 100vh;
+  display: flex;
+  color:white;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "roboto",sans-serif;
+
+}
+
+.App_Aside{
+  width: 50%;
+  background-color:cadetblue;
+}
+.App_Form{
+  width: 50%;
+  background-color:cyan;
+}
+body{
+
+  margin:0;
+  padding:0;
+}
+
+.PageSwitcher{
+  font-size: 30px;
+  background-color: blue;
+  border-radius: 25px;
+  
+}
+.PageSwitcher-active{
+background-color: blueviolet;
+
+}
+ .FormField-checkbox{
+   position:relative;
+   top:1.5px;
+ }
+
+ .FormField-TemsLink{
+color:white;
+border-bottom:1px solid #009900;
+text-decoration: none;
+display:inline-block;
+padding-bottom:2px;
+margin-left:5px;
+ }
+.App-link {
+  color: #61dafb;
+}
+
